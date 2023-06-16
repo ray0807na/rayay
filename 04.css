@@ -11,7 +11,7 @@ tr {
 th, tr, td {
     margin: 0px;
     padding: 100px;
-    border: solid 13px silver;
+    border: solid 13px purple;
     border-radius: 20px;
     font-size: 28px;
 }
@@ -19,7 +19,7 @@ th, tr, td {
 #b {
     margin-left: 345px;
     margin-right: 345px;
-    border: solid 13px silver;
+    border: solid 13px purple;
     border-radius: 20px;
 }
 
