@@ -11,7 +11,7 @@ tr {
 th, tr, td {
     margin: 0px;
     padding: 100px;
-    border: solid 13px rebeccapurple;
+    border: solid 13px black;
     border-radius: 20px;
     font-size: 28px;
 }
